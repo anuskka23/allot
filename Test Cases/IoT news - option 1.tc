@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1) Open google.com
+
+2) Write “IoT news”
+
+3) Open https://iottechnews.com/ from list of results.
+
+4) Open any news.
+
+5) Check that news name in news same as in main page.
+
+6) Check author photo exist on page.
+
+7) Open author site and check that site is open in new tap and the same as at news page.
+
+8) Close tap.
+
+9) Close browser.</description>
+   <name>IoT news - option 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35f57732-22f9-4634-b858-2fc03cfb0f87</testCaseGuid>
+</TestCaseEntity>

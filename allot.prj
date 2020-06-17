@@ -6,6 +6,7 @@
    <UUID>65546e72-69c4-4673-9b6c-d6f6427d96dd</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Ana\git\allotTest\allot.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

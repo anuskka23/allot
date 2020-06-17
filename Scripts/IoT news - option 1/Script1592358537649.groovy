@@ -40,11 +40,7 @@ WebUI.verifyElementPresent(findTestObject('Author photo'), 0)
 
 WebUI.click(findTestObject('Author link page'))
 
-Author_Url = WebUI.getUrl()
-
 WebUI.switchToWindowIndex('1')
-
-WebUI.navigateToUrl(Author_Url)
 
 WebUI.verifyElementText(findTestObject('article-header'), News_Name)
 
